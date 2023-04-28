@@ -100,14 +100,14 @@ class Consulta:
         Arquivo.registrar_log("Navegador finalizado em: "+datetime.now().strftime('%d/%m/%Y %H:%M'))
 
     def start():
-        #global browser
-
-        # exercicios = [2022]
+        
         exercicios = [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
 
         competencias = ['Abertura de Exercício','Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto',
                     'Setembro','Outubro','Novembro','Dezembro','Encerramento de Exercício']
 
+        # exercicios = cfg['Camara_Urai']['exercicios']
+        # competencias = cfg['Camara_Urai']['competencias']
         logado = Consulta.loginSimAm(cfg['Camara_Urai']['usuario'],cfg['Camara_Urai']['senha'])
         time.sleep(7)
 

@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0827ca91-2474-4f60-b702-d228dc469e95" name="Changes" comment="V_1.0.2">
+    <list default="true" id="0827ca91-2474-4f60-b702-d228dc469e95" name="Changes" comment="V_2.0.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvroboSimAm/cfg.ini" beforeDir="false" afterPath="$PROJECT_DIR$/venvroboSimAm/cfg.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvroboSimAm/consulta.py" beforeDir="false" afterPath="$PROJECT_DIR$/venvroboSimAm/consulta.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677083082086</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="V_1.0.3">
+      <created>1682624984226</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682624984226</updated>
+    </task>
+    <task id="LOCAL-00005" summary="V_2.0.0">
+      <created>1682625087539</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682625087539</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -160,7 +176,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="V_1.0.1" />
     <MESSAGE value="V_1.0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="V_1.0.2" />
+    <MESSAGE value="V_1.0.3" />
+    <MESSAGE value="V_2.0.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="V_2.0.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
